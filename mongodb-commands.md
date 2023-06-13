@@ -1,3 +1,7 @@
+Chatgpt link
+
+https://chat.openai.com/share/9400af3d-f384-4457-be96-f833687ff287
+
 # MongoDB Commands
 
 ### Show All Databases
